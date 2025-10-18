@@ -46,6 +46,7 @@ Telegram user
 
 ```bash
 git clone https://github.com/JuliocesarsantosTI/Dobby-linkedinjobbot.git
+cd Dobby-linkedinjobbot
 ```
 
 ### 2) Python & deps
