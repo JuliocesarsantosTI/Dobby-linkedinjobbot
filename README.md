@@ -1,7 +1,7 @@
 # LinkedIn Job Bot (Telegram)  with Dobby Fireworks API  Analysis
-A Telegram bot that searches for public LinkedIn job posts through Google (SerpAPI) and analyzes takes each one through Fireworks AI. It summarizes the role tasks, rates fit from 1 to 5 stars, provides a recommendation, sorts from best to worse, and deliveries everything in clean Telegram cards. 
+A Telegram bot that searches for public LinkedIn job posts through Google (SerpAPI) and analyzes takes each one through Dobby Fireworks API. It summarizes the role tasks, rates fit from 1 to 5 stars, provides a recommendation, sorts from best to worse, and deliveries everything in clean Telegram cards. 
 
-bot that finds public **LinkedIn job postings** via Google (**SerpAPI**) and runs **Fireworks AI** to analyze each result.  
+bot that finds public **LinkedIn job postings** via Google (**SerpAPI**) and runs **Dobby Fireworks API** to analyze each result.  
 You get clean Telegram cards with a **Recommendation**, a **Fireworks-authored Explanation**, and a **1–5 star rating**. Results are sorted **best → worst**.
 
 
